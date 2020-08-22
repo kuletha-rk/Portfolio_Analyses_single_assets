@@ -1,4 +1,4 @@
-# Portfolio_Analyses_single_assets
+# Portfolio_Analysis_single_assets
 This is a simple single stock price analysis over a time period
 
 I have manually rendered prices of Lincoln Pharma Stock price over 12 months from 21 Aug 2019 to 22 Aug 2020 (today).
